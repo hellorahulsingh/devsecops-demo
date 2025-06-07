@@ -20,7 +20,7 @@ Add the token generated above to your repo
 4. create new repository secret
 4. fill the details
    TOKEN
-   ####
+   #### CHECK TEAMS ####
    
 
 Authenticate docker with ghcr.io
@@ -29,5 +29,5 @@ Authenticate docker with ghcr.io
 3. signin using github or google
 4. Open terminal
     docker login -u rahulsingh
-    ####
+    #### CHECK TEAMS ####
 
