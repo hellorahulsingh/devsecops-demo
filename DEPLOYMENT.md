@@ -13,3 +13,5 @@ AWS for container registry: AWS ECR
 Create access token in github, so that you can access ghcr.io using access token(check ci-cd.yml: line 101)
 https://youtu.be/Ke_Wr5zPE0A?t=3279
 
+
+Simple change: IGNORE
